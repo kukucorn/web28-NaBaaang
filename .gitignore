@@ -36,3 +36,5 @@ frontend/config
 socket/config
 
 artillery/reports
+
+start.ps1
